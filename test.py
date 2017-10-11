@@ -1,2 +1,2 @@
 if __name__ == '__main__':
-	print("first 3E")
+	print("first 2E")
